@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10. Jogo de Cartas (Avançado)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. Sistema de Gerenciamento de Veículos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. Sistema de Restaurante" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. Sistema de Biblioteca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Simulação de Loja de Eletrônicos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6. Gerenciamento de Cursos e Estudantes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. Simulação de Sistema de Pagamentos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8. Sistema de Reserva de Hotel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. Simulação de Sistema de Votação" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
